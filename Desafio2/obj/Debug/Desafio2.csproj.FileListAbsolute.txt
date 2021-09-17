@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Desafio2\Desafio2\obj\Debug\Desafio2.Form1.resources
+C:\Users\Usuario\source\repos\Desafio2\Desafio2\obj\Debug\Desafio2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
